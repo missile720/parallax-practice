@@ -1,3 +1,99 @@
-#jumbotron {
-    background: #ffdb23 url("../img/pikachu.jpg")  center / contain;
-  }
+.parallaxNav{
+  /* The image used */
+  background-image: url("../img/pokemon.jpg");
+
+  /* Set a specific height */
+  min-height: 56px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax{
+  /* The image used */
+  background-image: url("../img/pokemon.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title{
+  font-size: 100px;
+}
+
+.parallaxArceus{
+  /* The image used */
+  background-image: url("../img/arceus.jpg");
+
+  /* Set a specific height */
+  min-height: 900px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallaxGo{
+  /* The image used */
+  background-image: url("../img/pokemon_go.jpg");
+
+  /* Set a specific height */
+  min-height: 900px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallaxTundra{
+  /* The image used */
+  background-image: url("../img/tundra.jpg");
+
+  /* Set a specific height */
+  min-height: 900px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallaxArmor{
+  /* The image used */
+  background-image: url("../img/armor.png");
+
+  /* Set a specific height */
+  min-height: 900px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.foot{
+  font-size: 50px;
+}
+
+.Quintessential{
+  font-family: 'Quintessential', cursive;
+}
+
+.Comforter{
+  font-family: 'Comforter', cursive;
+}
